@@ -1,0 +1,43 @@
+.container{
+    margin: 50px;
+}
+section{
+    height: 450px;
+    background-color: hsl(120, 52%, 88%);
+    padding-left: 10px;
+   
+}
+.top-banner{
+    border: 1px solid red;
+}
+.sign{
+    background-color: aqua;
+    color: red;
+    border: none;
+    border-radius: 20px;
+}
+
+.card{
+    margin: 40px;
+}
+.card-title{
+    color: red;
+}
+h3{
+    text-align: center;
+}
+.area{
+    height: 450px;
+    background-color: black;
+    padding: 10px;
+}
+.text{
+    color: aliceblue;
+}
+.text1{
+    color: aliceblue;
+    text-align: center;
+}
+footer{
+    margin: 50px;
+}
